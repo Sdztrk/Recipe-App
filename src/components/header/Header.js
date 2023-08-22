@@ -1,5 +1,4 @@
 import { Link } from 'react-router-dom';
-import "./Header.css"
 import Nav1 from "../styleComponents/Nav1"
 import Navli from "../styleComponents/NavLi "
 
